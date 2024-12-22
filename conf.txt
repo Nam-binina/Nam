@@ -1,0 +1,17 @@
+[Sb1]
+localport=1723
+directory=sb1_server/
+ip=localhost
+[Sb2]
+localport=1724
+directory=sb2_server/
+ip=localhost
+[Sb3]
+localport=1725
+directory=sb3_server/
+ip=localhost
+[Server]
+localport=1902
+ip=localhost
+[Client]
+directory=download/
